@@ -1,0 +1,2 @@
+# Extraction_of_tabular_data_from_PDF
+PaddleOCR, Detectron2
